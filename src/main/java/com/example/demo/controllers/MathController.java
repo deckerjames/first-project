@@ -28,7 +28,7 @@ public class MathController {
 		Adder adder = new Adder(0, 0);
 		double result = adder.calculate();
 		model.addAttribute("sum", result);
-		return "helloworld/sum-result";
+		return "helloworld/sum-resultGet";
 	}
 	
 	@PostMapping("subtractor")
@@ -45,7 +45,7 @@ public class MathController {
 		Subtractor subtractor = new Subtractor(0, 0);
 		double result = subtractor.calculate();
 		model.addAttribute("difference", result);
-		return "helloworld/difference-result";
+		return "helloworld/difference-resultGet";
 	}
 		
 }
