@@ -4,7 +4,7 @@ public class Adder {
 	
 	double sum;
 	
-	public Adder(int first, double second) {
+	public Adder(double first, double second) {
 		sum = first + second;
 	}
 	

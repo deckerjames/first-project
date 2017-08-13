@@ -4,7 +4,7 @@ public class Subtractor {
 
 	double difference;
 
-	public Subtractor(int first, double second) {
+	public Subtractor(double first, double second) {
 		difference = first - second;
 	}
 
