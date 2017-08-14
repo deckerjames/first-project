@@ -1,4 +1,4 @@
-package com.example.demo.controllers;
+/*package com.example.demo.controllers.archive;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -38,3 +38,4 @@ public class HelloWorldController {
 	}
 
 }
+*/

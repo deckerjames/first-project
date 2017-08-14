@@ -1,4 +1,4 @@
-package com.example.demo.models;
+/*package com.example.demo.models.archive;
 
 public class Yeller {
 	String msg;
@@ -12,4 +12,4 @@ public class Yeller {
 		return msg.toUpperCase();
 	}
 	
-}
+}*/
